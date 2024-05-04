@@ -1,8 +1,6 @@
 ## Sleep Mode
 
 
----
-
 **RFM95 Slave Communication Behavior**
 
 **Wake Period:**
@@ -25,6 +23,3 @@ During sleep:
 - The MISO line remains low.
 - The NSS pin stays on continuously.
 
----
-
-Feel free to adjust the formatting or content as needed!
